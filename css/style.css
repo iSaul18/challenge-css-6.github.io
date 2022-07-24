@@ -129,7 +129,7 @@ html {
         background-color: var(--Dark-desaturated-blue);
         margin: 0 auto;
         width: 70rem;
-        height: 1rem;
+        height: 105rem;
         display: flex;
         flex-direction: column-reverse;
         overflow: hidden;
@@ -148,7 +148,7 @@ html {
         margin: 0;
         text-align: center;
     }
-    
+
     .paragraph {
         margin-right: 0;
         font-size: 1.8rem;
